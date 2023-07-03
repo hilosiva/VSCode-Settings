@@ -24,6 +24,7 @@ VScodeには「Japanese Language Pack」のように便利な拡張機能がた�
 - Live Sass Compiler ****（作成者が「Glenn Marks」さんの方）****
 - Live Server
 - PostCSS Intellisense and Highlighting
+- PHP Intelephense
 
 ## おすすめ設定
 
